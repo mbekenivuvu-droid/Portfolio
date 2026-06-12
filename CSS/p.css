@@ -3,8 +3,6 @@
 ======================= */
 :root {
   --pomegranate: #C85555;
-  --glazed-apricot: #EAA624;
-  --spanish-bistre: #767B39;
   --van-gogh-blue: #AADCF2;
   --light-melon: #F7BCB0;
 }
@@ -217,8 +215,8 @@ nav a.active {
 
 /* QUOTE */
 .quote {
-  background: linear-gradient(90deg, var(--pomegranate), var(--spanish-bistre));
-  color: var(--van-gogh-blue);
+  background: linear-gradient(90deg, var(--pomegranate), var(--van-gogh-blue));
+  color: var(--glazed-apricot);
   text-align: center;
   padding: 40px;
   border-radius: 25px;
